@@ -1,0 +1,1303 @@
+{
+  "0000000000":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Sample Book 1",
+    "author": "ABC DEF",
+    "publicationYear": 2023,
+    "publisher": "WXYZ",
+    "smallImageURL": "https://www.mswordcoverpages.com/wp-content/uploads/2018/10/Book-cover-page-3-CRC.png",
+    "mediumImageURL": "https://www.mswordcoverpages.com/wp-content/uploads/2018/10/Book-cover-page-3-CRC.png",
+    "largeImageURL": "https://www.mswordcoverpages.com/wp-content/uploads/2018/10/Book-cover-page-3-CRC.png"
+  },
+  "1111111111":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Sample Book 2",
+    "author": "ABC DEF",
+    "publicationYear": 2023,
+    "publisher": "WXYZ",
+    "smallImageURL": "https://www.mswordcoverpages.com/wp-content/uploads/2018/10/Book-cover-page-3-CRC.png",
+    "mediumImageURL": "https://www.mswordcoverpages.com/wp-content/uploads/2018/10/Book-cover-page-3-CRC.png",
+    "largeImageURL": "https://www.mswordcoverpages.com/wp-content/uploads/2018/10/Book-cover-page-3-CRC.png"
+  },
+  "2222222222":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Sample Book 3",
+    "author": "ABC DEF",
+    "publicationYear": 2023,
+    "publisher": "WXYZ",
+    "smallImageURL": "https://www.mswordcoverpages.com/wp-content/uploads/2018/10/Book-cover-page-3-CRC.png",
+    "mediumImageURL": "https://www.mswordcoverpages.com/wp-content/uploads/2018/10/Book-cover-page-3-CRC.png",
+    "largeImageURL": "https://www.mswordcoverpages.com/wp-content/uploads/2018/10/Book-cover-page-3-CRC.png"
+  },
+  "0195153448":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Classical Mythology",
+    "author": "Mark P. O. Morford",
+    "publicationYear": 2002,
+    "publisher": "Oxford University Press",
+    "smallImageURL": "http://images.amazon.com/images/P/0195153448.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0195153448.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0195153448.01.LZZZZZZZ.jpg"
+  },
+  "0002005018":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Clara Callan",
+    "author": "Richard Bruce Wright",
+    "publicationYear": 2001,
+    "publisher": "HarperFlamingo Canada",
+    "smallImageURL": "http://images.amazon.com/images/P/0002005018.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0002005018.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0002005018.01.LZZZZZZZ.jpg"
+  },
+  "0374157065":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Flu: The Story of the Great Influenza Pandemic of 1918 and the Search for the Virus That Caused It",
+    "author": "Gina Bari Kolata",
+    "publicationYear": 1999,
+    "publisher": "Farrar Straus Giroux",
+    "smallImageURL": "http://images.amazon.com/images/P/0374157065.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0374157065.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0374157065.01.LZZZZZZZ.jpg"
+  },
+  "0393045218":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "The Mummies of Urumchi",
+    "author": "E. J. W. Barber",
+    "publicationYear": 1999,
+    "publisher": "W. W. Norton &amp; Company",
+    "smallImageURL": "http://images.amazon.com/images/P/0393045218.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0393045218.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0393045218.01.LZZZZZZZ.jpg"
+  },
+  "0399135782":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "The Kitchen God's Wife",
+    "author": "Amy Tan",
+    "publicationYear": 1991,
+    "publisher": "Putnam Pub Group",
+    "smallImageURL": "http://images.amazon.com/images/P/0399135782.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0399135782.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0399135782.01.LZZZZZZZ.jpg"
+  },
+  "0425176428":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "What If?: The World's Foremost Military Historians Imagine What Might Have Been",
+    "author": "Robert Cowley",
+    "publicationYear": 2000,
+    "publisher": "Berkley Publishing Group",
+    "smallImageURL": "http://images.amazon.com/images/P/0425176428.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0425176428.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0425176428.01.LZZZZZZZ.jpg"
+  },
+  "0671870432":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "PLEADING GUILTY",
+    "author": "Scott Turow",
+    "publicationYear": 1993,
+    "publisher": "Audioworks",
+    "smallImageURL": "http://images.amazon.com/images/P/0671870432.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0671870432.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0671870432.01.LZZZZZZZ.jpg"
+  },
+  "0679425608":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Under the Black Flag: The Romance and the Reality of Life Among the Pirates",
+    "author": "David Cordingly",
+    "publicationYear": 1996,
+    "publisher": "Random House",
+    "smallImageURL": "http://images.amazon.com/images/P/0679425608.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0679425608.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0679425608.01.LZZZZZZZ.jpg"
+  },
+  "074322678X":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Where You'll Find Me: And Other Stories",
+    "author": "Ann Beattie",
+    "publicationYear": 2002,
+    "publisher": "Scribner",
+    "smallImageURL": "http://images.amazon.com/images/P/074322678X.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/074322678X.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/074322678X.01.LZZZZZZZ.jpg"
+  },
+  "0771074670":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Nights Below Station Street",
+    "author": "David Adams Richards",
+    "publicationYear": 1988,
+    "publisher": "Emblem Editions",
+    "smallImageURL": "http://images.amazon.com/images/P/0771074670.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0771074670.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0771074670.01.LZZZZZZZ.jpg"
+  },
+  "080652121X":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Hitler's Secret Bankers: The Myth of Swiss Neutrality During the Holocaust",
+    "author": "Adam Lebor",
+    "publicationYear": 2000,
+    "publisher": "Citadel Press",
+    "smallImageURL": "http://images.amazon.com/images/P/080652121X.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/080652121X.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/080652121X.01.LZZZZZZZ.jpg"
+  },
+  "0887841740":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "The Middle Stories",
+    "author": "Sheila Heti",
+    "publicationYear": 2004,
+    "publisher": "House of Anansi Press",
+    "smallImageURL": "http://images.amazon.com/images/P/0887841740.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0887841740.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0887841740.01.LZZZZZZZ.jpg"
+  },
+  "0440234743":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "The Testament",
+    "author": "John Grisham",
+    "publicationYear": 1999,
+    "publisher": "Dell",
+    "smallImageURL": "http://images.amazon.com/images/P/0440234743.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0440234743.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0440234743.01.LZZZZZZZ.jpg"
+  },
+  "0452264464":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Beloved (Plume Contemporary Fiction)",
+    "author": "Toni Morrison",
+    "publicationYear": 1994,
+    "publisher": "Plume",
+    "smallImageURL": "http://images.amazon.com/images/P/0452264464.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0452264464.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0452264464.01.LZZZZZZZ.jpg"
+  },
+  "0609804618":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Our Dumb Century: The Onion Presents 100 Years of Headlines from America's Finest News Source",
+    "author": "The Onion",
+    "publicationYear": 1999,
+    "publisher": "Three Rivers Press",
+    "smallImageURL": "http://images.amazon.com/images/P/0609804618.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0609804618.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0609804618.01.LZZZZZZZ.jpg"
+  },
+  "0439095026":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Tell Me This Isn't Happening",
+    "author": "Robynn Clairday",
+    "publicationYear": 1999,
+    "publisher": "Scholastic",
+    "smallImageURL": "http://images.amazon.com/images/P/0439095026.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0439095026.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0439095026.01.LZZZZZZZ.jpg"
+  },
+  "0689821166":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Flood : Mississippi 1927",
+    "author": "Kathleen Duey",
+    "publicationYear": 1998,
+    "publisher": "Aladdin",
+    "smallImageURL": "http://images.amazon.com/images/P/0689821166.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0689821166.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0689821166.01.LZZZZZZZ.jpg"
+  },
+  "0971880107":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Wild Animus",
+    "author": "Rich Shapero",
+    "publicationYear": 2004,
+    "publisher": "Too Far",
+    "smallImageURL": "http://images.amazon.com/images/P/0971880107.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0971880107.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0971880107.01.LZZZZZZZ.jpg"
+  },
+  "0345402871":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Airframe",
+    "author": "Michael Crichton",
+    "publicationYear": 1997,
+    "publisher": "Ballantine Books",
+    "smallImageURL": "http://images.amazon.com/images/P/0345402871.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0345402871.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0345402871.01.LZZZZZZZ.jpg"
+  },
+  "0345417623":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Timeline",
+    "author": "MICHAEL CRICHTON",
+    "publicationYear": 2000,
+    "publisher": "Ballantine Books",
+    "smallImageURL": "http://images.amazon.com/images/P/0345417623.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0345417623.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0345417623.01.LZZZZZZZ.jpg"
+  },
+  "0684823802":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "OUT OF THE SILENT PLANET",
+    "author": "C.S. Lewis",
+    "publicationYear": 1996,
+    "publisher": "Scribner",
+    "smallImageURL": "http://images.amazon.com/images/P/0684823802.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0684823802.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0684823802.01.LZZZZZZZ.jpg"
+  },
+  "0375759778":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Prague : A Novel",
+    "author": "ARTHUR PHILLIPS",
+    "publicationYear": 2003,
+    "publisher": "Random House Trade Paperbacks",
+    "smallImageURL": "http://images.amazon.com/images/P/0375759778.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0375759778.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0375759778.01.LZZZZZZZ.jpg"
+  },
+  "0425163091":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Chocolate Jesus",
+    "author": "Stephan Jaramillo",
+    "publicationYear": 1998,
+    "publisher": "Berkley Publishing Group",
+    "smallImageURL": "http://images.amazon.com/images/P/0425163091.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0425163091.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0425163091.01.LZZZZZZZ.jpg"
+  },
+  "0375406328":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Lying Awake",
+    "author": "Mark Salzman",
+    "publicationYear": 2000,
+    "publisher": "Alfred A. Knopf",
+    "smallImageURL": "http://images.amazon.com/images/P/0375406328.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0375406328.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0375406328.01.LZZZZZZZ.jpg"
+  },
+  "0446310786":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "publicationYear": 1988,
+    "publisher": "Little Brown &amp; Company",
+    "smallImageURL": "http://images.amazon.com/images/P/0446310786.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0446310786.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0446310786.01.LZZZZZZZ.jpg"
+  },
+  "0449005615":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Seabiscuit: An American Legend",
+    "author": "LAURA HILLENBRAND",
+    "publicationYear": 2002,
+    "publisher": "Ballantine Books",
+    "smallImageURL": "http://images.amazon.com/images/P/0449005615.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0449005615.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0449005615.01.LZZZZZZZ.jpg"
+  },
+  "038078243X":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Miss Zukas and the Raven's Dance",
+    "author": "Jo Dereske",
+    "publicationYear": 1996,
+    "publisher": "Avon",
+    "smallImageURL": "http://images.amazon.com/images/P/038078243X.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/038078243X.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/038078243X.01.LZZZZZZZ.jpg"
+  },
+  "055321215X":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "publicationYear": 1983,
+    "publisher": "Bantam",
+    "smallImageURL": "http://images.amazon.com/images/P/055321215X.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/055321215X.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/055321215X.01.LZZZZZZZ.jpg"
+  },
+  "067176537X":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "The Therapeutic Touch: How to Use Your Hands to Help or to Heal",
+    "author": "Dolores Krieger",
+    "publicationYear": 1979,
+    "publisher": "Fireside",
+    "smallImageURL": "http://images.amazon.com/images/P/067176537X.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/067176537X.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/067176537X.01.LZZZZZZZ.jpg"
+  },
+  "0061099686":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Downtown",
+    "author": "Anne Rivers Siddons",
+    "publicationYear": 1995,
+    "publisher": "HarperTorch",
+    "smallImageURL": "http://images.amazon.com/images/P/0061099686.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0061099686.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0061099686.01.LZZZZZZZ.jpg"
+  },
+  "0553582909":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Icebound",
+    "author": "Dean R. Koontz",
+    "publicationYear": 2000,
+    "publisher": "Bantam Books",
+    "smallImageURL": "http://images.amazon.com/images/P/0553582909.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0553582909.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0553582909.01.LZZZZZZZ.jpg"
+  },
+  "0671888587":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "I'll Be Seeing You",
+    "author": "Mary Higgins Clark",
+    "publicationYear": 1994,
+    "publisher": "Pocket",
+    "smallImageURL": "http://images.amazon.com/images/P/0671888587.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0671888587.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0671888587.01.LZZZZZZZ.jpg"
+  },
+  "0553582747":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "From the Corner of His Eye",
+    "author": "Dean Koontz",
+    "publicationYear": 2001,
+    "publisher": "Bantam Books",
+    "smallImageURL": "http://images.amazon.com/images/P/0553582747.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0553582747.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0553582747.01.LZZZZZZZ.jpg"
+  },
+  "0425182908":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Isle of Dogs",
+    "author": "Patricia Cornwell",
+    "publicationYear": 2002,
+    "publisher": "Berkley Publishing Group",
+    "smallImageURL": "http://images.amazon.com/images/P/0425182908.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0425182908.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0425182908.01.LZZZZZZZ.jpg"
+  },
+  "042518630X":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Purity in Death",
+    "author": "J.D. Robb",
+    "publicationYear": 2002,
+    "publisher": "Berkley Publishing Group",
+    "smallImageURL": "http://images.amazon.com/images/P/042518630X.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/042518630X.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/042518630X.01.LZZZZZZZ.jpg"
+  },
+  "0440223571":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "This Year It Will Be Different: And Other Stories",
+    "author": "Maeve Binchy",
+    "publicationYear": 1997,
+    "publisher": "Dell",
+    "smallImageURL": "http://images.amazon.com/images/P/0440223571.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0440223571.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0440223571.01.LZZZZZZZ.jpg"
+  },
+  "0812523873":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Proxies",
+    "author": "Laura J. Mixon",
+    "publicationYear": 1999,
+    "publisher": "Tor Books",
+    "smallImageURL": "http://images.amazon.com/images/P/0812523873.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0812523873.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0812523873.01.LZZZZZZZ.jpg"
+  },
+  "0842342702":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Left Behind: A Novel of the Earth's Last Days (Left Behind #1)",
+    "author": "Tim Lahaye",
+    "publicationYear": 2000,
+    "publisher": "Tyndale House Publishers",
+    "smallImageURL": "http://images.amazon.com/images/P/0842342702.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0842342702.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0842342702.01.LZZZZZZZ.jpg"
+  },
+  "0440225701":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "The Street Lawyer",
+    "author": "JOHN GRISHAM",
+    "publicationYear": 1999,
+    "publisher": "Dell",
+    "smallImageURL": "http://images.amazon.com/images/P/0440225701.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0440225701.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0440225701.01.LZZZZZZZ.jpg"
+  },
+  "0156047624":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "All the King's Men",
+    "author": "Robert Penn Warren",
+    "publicationYear": 1982,
+    "publisher": "Harvest Books",
+    "smallImageURL": "http://images.amazon.com/images/P/0156047624.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0156047624.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0156047624.01.LZZZZZZZ.jpg"
+  },
+  "0245542957":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Pacific Northwest",
+    "author": "Hans Johannes Hoefer",
+    "publicationYear": 1985,
+    "publisher": "Chambers Harrap Publishers Ltd",
+    "smallImageURL": "http://images.amazon.com/images/P/0245542957.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0245542957.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0245542957.01.LZZZZZZZ.jpg"
+  },
+  "0380715899":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "A Soldier of the Great War",
+    "author": "Mark Helprin",
+    "publicationYear": 1992,
+    "publisher": "Avon Books",
+    "smallImageURL": "http://images.amazon.com/images/P/0380715899.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0380715899.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0380715899.01.LZZZZZZZ.jpg"
+  },
+  "0553280333":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Getting Well Again",
+    "author": "O. Carol Simonton Md",
+    "publicationYear": 1992,
+    "publisher": "Bantam",
+    "smallImageURL": "http://images.amazon.com/images/P/0553280333.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0553280333.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0553280333.01.LZZZZZZZ.jpg"
+  },
+  "0961769947":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Northwest Wines and Wineries",
+    "author": "Chuck Hill",
+    "publicationYear": 1993,
+    "publisher": "Speed Graphics",
+    "smallImageURL": "http://images.amazon.com/images/P/0961769947.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0961769947.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0961769947.01.LZZZZZZZ.jpg"
+  },
+  "0964778319":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "An Atmosphere of Eternity: Stories of India",
+    "author": "David Iglehart",
+    "publicationYear": 2002,
+    "publisher": "Sunflower Press",
+    "smallImageURL": "http://images.amazon.com/images/P/0964778319.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0964778319.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0964778319.01.LZZZZZZZ.jpg"
+  },
+  "0671623249":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "LONESOME DOVE",
+    "author": "Larry McMurtry",
+    "publicationYear": 1986,
+    "publisher": "Pocket",
+    "smallImageURL": "http://images.amazon.com/images/P/0671623249.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0671623249.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0671623249.01.LZZZZZZZ.jpg"
+  },
+  "0679810307":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Shabanu: Daughter of the Wind (Border Trilogy)",
+    "author": "SUZANNE FISHER STAPLES",
+    "publicationYear": 1991,
+    "publisher": "Laurel Leaf",
+    "smallImageURL": "http://images.amazon.com/images/P/0679810307.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0679810307.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0679810307.01.LZZZZZZZ.jpg"
+  },
+  "0679865691":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Haveli (Laurel Leaf Books)",
+    "author": "SUZANNE FISHER STAPLES",
+    "publicationYear": 1995,
+    "publisher": "Laurel Leaf",
+    "smallImageURL": "http://images.amazon.com/images/P/0679865691.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0679865691.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0679865691.01.LZZZZZZZ.jpg"
+  },
+  "0345260317":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "The Dragons of Eden: Speculations on the Evolution of Human Intelligence",
+    "author": "Carl Sagan",
+    "publicationYear": 1978,
+    "publisher": "Ballantine Books",
+    "smallImageURL": "http://images.amazon.com/images/P/0345260317.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0345260317.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0345260317.01.LZZZZZZZ.jpg"
+  },
+  "0394743741":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "The yawning heights",
+    "author": "Aleksandr Zinoviev",
+    "publicationYear": 1980,
+    "publisher": "Random House",
+    "smallImageURL": "http://images.amazon.com/images/P/0394743741.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0394743741.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0394743741.01.LZZZZZZZ.jpg"
+  },
+  "042511774X":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Breathing Lessons",
+    "author": "Anne Tyler",
+    "publicationYear": 1994,
+    "publisher": "Berkley Publishing Group",
+    "smallImageURL": "http://images.amazon.com/images/P/042511774X.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/042511774X.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/042511774X.01.LZZZZZZZ.jpg"
+  },
+  "0804106304":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "The Joy Luck Club",
+    "author": "Amy Tan",
+    "publicationYear": 1994,
+    "publisher": "Prentice Hall (K-12)",
+    "smallImageURL": "http://images.amazon.com/images/P/0804106304.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0804106304.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0804106304.01.LZZZZZZZ.jpg"
+  },
+  "0312970242":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "The Angel Is Near",
+    "author": "Deepak Chopra",
+    "publicationYear": 2000,
+    "publisher": "St. Martin's Press",
+    "smallImageURL": "http://images.amazon.com/images/P/0312970242.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0312970242.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0312970242.01.LZZZZZZZ.jpg"
+  },
+  "0060938412":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "The Accidental Virgin",
+    "author": "Valerie Frankel",
+    "publicationYear": 2003,
+    "publisher": "Avon Trade",
+    "smallImageURL": "http://images.amazon.com/images/P/0060938412.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0060938412.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0060938412.01.LZZZZZZZ.jpg"
+  },
+  "0140067477":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "The Tao of Pooh",
+    "author": "Benjamin Hoff",
+    "publicationYear": 1983,
+    "publisher": "Penguin Books",
+    "smallImageURL": "http://images.amazon.com/images/P/0140067477.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0140067477.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0140067477.01.LZZZZZZZ.jpg"
+  },
+  "0345465083":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Seabiscuit",
+    "author": "LAURA HILLENBRAND",
+    "publicationYear": 2003,
+    "publisher": "Ballantine Books",
+    "smallImageURL": "http://images.amazon.com/images/P/0345465083.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0345465083.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0345465083.01.LZZZZZZZ.jpg"
+  },
+  "0451625889":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "The Prince",
+    "author": "Niccolo Machiavelli",
+    "publicationYear": 1952,
+    "publisher": "Signet Book",
+    "smallImageURL": "http://images.amazon.com/images/P/0451625889.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0451625889.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0451625889.01.LZZZZZZZ.jpg"
+  },
+  "0441783589":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Starship Troopers",
+    "author": "Robert A. Heinlein",
+    "publicationYear": 1987,
+    "publisher": "Ace Books",
+    "smallImageURL": "http://images.amazon.com/images/P/0441783589.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0441783589.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0441783589.01.LZZZZZZZ.jpg"
+  },
+  "0394895894":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "The Ruby in the Smoke (Sally Lockhart Trilogy\t Book 1)",
+    "author": "PHILIP PULLMAN",
+    "publicationYear": 1988,
+    "publisher": "Laurel Leaf",
+    "smallImageURL": "http://images.amazon.com/images/P/0394895894.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0394895894.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0394895894.01.LZZZZZZZ.jpg"
+  },
+  "0375410538":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Anil's Ghost",
+    "author": "MICHAEL ONDAATJE",
+    "publicationYear": 2000,
+    "publisher": "Knopf",
+    "smallImageURL": "http://images.amazon.com/images/P/0375410538.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0375410538.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0375410538.01.LZZZZZZZ.jpg"
+  },
+  "0966986105":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Prescription for Terror",
+    "author": "Sandra Levy Ceren",
+    "publicationYear": 1999,
+    "publisher": "Andrew Scott Publishers",
+    "smallImageURL": "http://images.amazon.com/images/P/0966986105.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0966986105.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0966986105.01.LZZZZZZZ.jpg"
+  },
+  "087113375X":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Modern Manners: An Etiquette Book for Rude People",
+    "author": "P.J. O'Rourke",
+    "publicationYear": 1990,
+    "publisher": "Atlantic Monthly Press",
+    "smallImageURL": "http://images.amazon.com/images/P/087113375X.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/087113375X.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/087113375X.01.LZZZZZZZ.jpg"
+  },
+  "0340767936":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Turning Thirty",
+    "author": "Mike Gayle",
+    "publicationYear": 2000,
+    "publisher": "Hodder &amp; Stoughton General Division",
+    "smallImageURL": "http://images.amazon.com/images/P/0340767936.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0340767936.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0340767936.01.LZZZZZZZ.jpg"
+  },
+  "0743403843":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Decipher",
+    "author": "Stel Pavlou",
+    "publicationYear": 2002,
+    "publisher": "Simon &amp; Schuster (Trade Division)",
+    "smallImageURL": "http://images.amazon.com/images/P/0743403843.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0743403843.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0743403843.01.LZZZZZZZ.jpg"
+  },
+  "0060930365":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "My First Cousin Once Removed: Money\t Madness\t and the Family of Robert Lowell",
+    "author": "Sarah Payne Stuart",
+    "publicationYear": 1999,
+    "publisher": "Perennial",
+    "smallImageURL": "http://images.amazon.com/images/P/0060930365.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0060930365.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0060930365.01.LZZZZZZZ.jpg"
+  },
+  "0071416331":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Team Bush : Leadership Lessons from the Bush White House",
+    "author": "Donald F. Kettl",
+    "publicationYear": 2003,
+    "publisher": "McGraw-Hill",
+    "smallImageURL": "http://images.amazon.com/images/P/0071416331.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0071416331.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0071416331.01.LZZZZZZZ.jpg"
+  },
+  "0375509038":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "The Right Man : The Surprise Presidency of George W. Bush",
+    "author": "DAVID FRUM",
+    "publicationYear": 2003,
+    "publisher": "Random House",
+    "smallImageURL": "http://images.amazon.com/images/P/0375509038.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0375509038.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0375509038.01.LZZZZZZZ.jpg"
+  },
+  "0553062042":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Daybreakers Louis Lamour Collection",
+    "author": "Louis Lamour",
+    "publicationYear": 1981,
+    "publisher": "Bantam Doubleday Dell",
+    "smallImageURL": "http://images.amazon.com/images/P/0553062042.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0553062042.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0553062042.01.LZZZZZZZ.jpg"
+  },
+  "0316769487":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "publicationYear": 1991,
+    "publisher": "Little\t Brown",
+    "smallImageURL": "http://images.amazon.com/images/P/0316769487.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0316769487.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0316769487.01.LZZZZZZZ.jpg"
+  },
+  "0679429220":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Midnight in the Garden of Good and Evil: A Savannah Story",
+    "author": "John Berendt",
+    "publicationYear": 1994,
+    "publisher": "Random House",
+    "smallImageURL": "http://images.amazon.com/images/P/0679429220.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0679429220.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0679429220.01.LZZZZZZZ.jpg"
+  },
+  "0671867156":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Pretend You Don't See Her",
+    "author": "Mary Higgins Clark",
+    "publicationYear": 1998,
+    "publisher": "Pocket",
+    "smallImageURL": "http://images.amazon.com/images/P/0671867156.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0671867156.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0671867156.01.LZZZZZZZ.jpg"
+  },
+  "0312252617":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Fast Women",
+    "author": "Jennifer Crusie",
+    "publicationYear": 2001,
+    "publisher": "St. Martin's Press",
+    "smallImageURL": "http://images.amazon.com/images/P/0312252617.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0312252617.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0312252617.01.LZZZZZZZ.jpg"
+  },
+  "0312261594":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Female Intelligence",
+    "author": "Jane Heller",
+    "publicationYear": 2001,
+    "publisher": "St. Martin's Press",
+    "smallImageURL": "http://images.amazon.com/images/P/0312261594.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0312261594.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0312261594.01.LZZZZZZZ.jpg"
+  },
+  "0316748641":
+  {
+    "status": "available",  
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Pasquale's Nose: Idle Days in an Italian Town",
+    "author": "Michael Rips",
+    "publicationYear": 2002,
+    "publisher": "Back Bay Books",
+    "smallImageURL": "http://images.amazon.com/images/P/0316748641.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/0316748641.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/0316748641.01.LZZZZZZZ.jpg"
+  },
+  "2070423204":
+  { 
+  "quantity": 1,
+    "qin":"000",  
+  "status": "available",
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Lieux dits",
+    "author": "Michel Tournier",
+    "publicationYear": 2002,
+    "publisher": "Gallimard",
+    "smallImageURL": "http://images.amazon.com/images/P/2070423204.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/2070423204.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/2070423204.01.LZZZZZZZ.jpg"
+  },
+  "1552041778":
+  { 
+  "quantity": 1,
+    "qin":"000",  
+  "status": "available",
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Jane Doe",
+    "author": "R. J. Kaiser",
+    "publicationYear": 1999,
+    "publisher": "Mira Books",
+    "smallImageURL": "http://images.amazon.com/images/P/1552041778.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/1552041778.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/1552041778.01.LZZZZZZZ.jpg"
+  },
+  "1558746218":
+  { 
+  "quantity": 1,
+    "qin":"000",  
+  "status": "available",
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "A Second Chicken Soup for the Woman's Soul (Chicken Soup for the Soul Series)",
+    "author": "Jack Canfield",
+    "publicationYear": 1998,
+    "publisher": "Health Communications",
+    "smallImageURL": "http://images.amazon.com/images/P/1558746218.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/1558746218.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/1558746218.01.LZZZZZZZ.jpg"
+  },
+  "1567407781":
+  { 
+  "quantity": 1,
+    "qin":"000",  
+  "status": "available",
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "The Witchfinder (Amos Walker Mystery Series)",
+    "author": "Loren D. Estleman",
+    "publicationYear": 1998,
+    "publisher": "Brilliance Audio - Trade",
+    "smallImageURL": "http://images.amazon.com/images/P/1567407781.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/1567407781.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/1567407781.01.LZZZZZZZ.jpg"
+  },
+  "1575663937":
+  { 
+  "quantity": 1,
+    "qin":"000",  
+  "status": "available",
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "More Cunning Than Man: A Social History of Rats and Man",
+    "author": "Robert Hendrickson",
+    "publicationYear": 1999,
+    "publisher": "Kensington Publishing Corp.",
+    "smallImageURL": "http://images.amazon.com/images/P/1575663937.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/1575663937.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/1575663937.01.LZZZZZZZ.jpg"
+  },
+  "1881320189":
+  { 
+  "quantity": 1,
+    "qin":"000",  
+  "status": "available",
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Goodbye to the Buttermilk Sky",
+    "author": "Julia Oliver",
+    "publicationYear": 1994,
+    "publisher": "River City Pub",
+    "smallImageURL": "http://images.amazon.com/images/P/1881320189.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/1881320189.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/1881320189.01.LZZZZZZZ.jpg"
+  },
+  "1841721522":
+  { 
+  "quantity": 1,
+    "qin":"000",  
+  "status": "available",
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "New Vegetarian: Bold and Beautiful Recipes for Every Occasion",
+    "author": "Celia Brooks Brown",
+    "publicationYear": 2001,
+    "publisher": "Ryland Peters &amp; Small Ltd",
+    "smallImageURL": "http://images.amazon.com/images/P/1841721522.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/1841721522.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/1841721522.01.LZZZZZZZ.jpg"
+  },
+  "1879384493":
+  { 
+  "quantity": 1,
+    "qin":"000",  
+  "status": "available",
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "If I'd Known Then What I Know Now: Why Not Learn from the Mistakes of Others? : You Can't Afford to Make Them All Yourself",
+    "author": "J. R. Parrish",
+    "publicationYear": 2003,
+    "publisher": "Cypress House",
+    "smallImageURL": "http://images.amazon.com/images/P/1879384493.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/1879384493.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/1879384493.01.LZZZZZZZ.jpg"
+  },
+  "3404921038":
+  { 
+  "quantity": 1,
+    "qin":"000",  
+  "status": "available",
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Wie Barney es sieht.",
+    "author": "Mordecai Richler",
+    "publicationYear": 2002,
+    "publisher": "NULL",
+    "smallImageURL": "http://images.amazon.com/images/P/3404921038.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/3404921038.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/3404921038.01.LZZZZZZZ.jpg"
+  },
+  "3442353866":
+  { 
+  "quantity": 1,
+    "qin":"000",  
+  "status": "available",
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Der Fluch der Kaiserin. Ein Richter- Di- Roman.",
+    "author": "Eleanor Cooney",
+    "publicationYear": 2001,
+    "publisher": "Goldmann",
+    "smallImageURL": "http://images.amazon.com/images/P/3442353866.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/3442353866.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/3442353866.01.LZZZZZZZ.jpg"
+  },
+  "3442410665":
+  { 
+  "quantity": 1,
+    "qin":"000",  
+  "status": "available",
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Sturmzeit. Roman.",
+    "author": "Charlotte Link",
+    "publicationYear": 1991,
+    "publisher": "Goldmann",
+    "smallImageURL": "http://images.amazon.com/images/P/3442410665.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/3442410665.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/3442410665.01.LZZZZZZZ.jpg"
+  },
+  "3442446937":
+  { 
+  "quantity": 1,
+    "qin":"000",  
+  "status": "available",
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Tage der Unschuld.",
+    "author": "Richard North Patterson",
+    "publicationYear": 2000,
+    "publisher": "Goldmann",
+    "smallImageURL": "http://images.amazon.com/images/P/3442446937.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/3442446937.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/3442446937.01.LZZZZZZZ.jpg"
+  },
+  "1853262404":
+  { 
+  "quantity": 1,
+    "qin":"000",  
+  "status": "available",
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Heart of Darkness (Wordsworth Collection)",
+    "author": "Joseph Conrad",
+    "publicationYear": 1998,
+    "publisher": "NTC/Contemporary Publishing Company",
+    "smallImageURL": "http://images.amazon.com/images/P/1853262404.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/1853262404.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/1853262404.01.LZZZZZZZ.jpg"
+  },
+  "1853260053":
+  { 
+  "quantity": 1,
+    "qin":"000",  
+  "status": "available",
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Tess of the D'Urbervilles (Wordsworth Classics)",
+    "author": "Thomas Hardy",
+    "publicationYear": 1997,
+    "publisher": "NTC/Contemporary Publishing Company",
+    "smallImageURL": "http://images.amazon.com/images/P/1853260053.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/1853260053.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/1853260053.01.LZZZZZZZ.jpg"
+  },
+  "1414035004":
+  { 
+  "quantity": 1,
+    "qin":"000",  
+  "status": "available",
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "The Adventures of Drew and Ellie: The Magical Dress",
+    "author": "Charles Noland",
+    "publicationYear": 2003,
+    "publisher": "1stBooks Library",
+    "smallImageURL": "http://images.amazon.com/images/P/1414035004.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/1414035004.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/1414035004.01.LZZZZZZZ.jpg"
+  },
+  "1569871213":
+  { 
+  "quantity": 1,
+    "qin":"000",  
+  "status": "available",
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Black Beauty (Illustrated Classics)",
+    "author": "Anna Sewell",
+    "publicationYear": 1995,
+    "publisher": "Landoll",
+    "smallImageURL": "http://images.amazon.com/images/P/1569871213.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/1569871213.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/1569871213.01.LZZZZZZZ.jpg"
+  },
+  "1558531025":
+  { 
+  "quantity": 1,
+    "qin":"000",  
+  "status": "available",
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "Life's Little Instruction Book (Life's Little Instruction Books (Paperback))",
+    "author": "H. Jackson Brown",
+    "publicationYear": 1991,
+    "publisher": "Thomas Nelson",
+    "smallImageURL": "http://images.amazon.com/images/P/1558531025.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/1558531025.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/1558531025.01.LZZZZZZZ.jpg"
+  },
+  "8445071408":
+  { 
+  "quantity": 1,
+    "qin":"000",  
+  "status": "available",
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "El Senor De Los Anillos: LA Comunidad Del Anillo (Lord of the Rings (Spanish))",
+    "author": "J. R. R. Tolkien",
+    "publicationYear": 2001,
+    "publisher": "Minotauro",
+    "smallImageURL": "http://images.amazon.com/images/P/8445071408.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/8445071408.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/8445071408.01.LZZZZZZZ.jpg"
+  },
+  "8445071769":
+  { 
+  "quantity": 1,
+    "qin":"000",  
+  "status": "available",
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "El Senor De Los Anillos: Las DOS Torres (Lord of the Rings (Paperback))",
+    "author": "J. R. R. Tolkien",
+    "publicationYear": 2001,
+    "publisher": "Minotauro",
+    "smallImageURL": "http://images.amazon.com/images/P/8445071769.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/8445071769.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/8445071769.01.LZZZZZZZ.jpg"
+  },
+  "8445071777":
+  { 
+  "quantity": 1,
+    "qin":"000",  
+  "status": "available",
+    "location": "Rack No. A1",
+    "keywords": "abc, def, ghi",
+    "title": "El Senor De Los Anillos: El Retorno Del Rey (Tolkien\t J. R. R. Lord of the Rings. 3.)",
+    "author": "J. R. R. Tolkien",
+    "publicationYear": 2001,
+    "publisher": "Distribooks",
+    "smallImageURL": "http://images.amazon.com/images/P/8445071777.01.THUMBZZZ.jpg",
+    "mediumImageURL": "http://images.amazon.com/images/P/8445071777.01.MZZZZZZZ.jpg",
+    "largeImageURL": "http://images.amazon.com/images/P/8445071777.01.LZZZZZZZ.jpg"
+  }
+}

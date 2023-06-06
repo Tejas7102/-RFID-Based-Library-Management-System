@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container1{
+    background-color:white;
+    height: 100%;
+    width: 100%;
+    background-image: none;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: white;
+    background-image: none;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+.containerH{
+    height: 100%;
+    padding:4vh 0px 0px 0px;
+    margin: 0;
+}
+
+.button_div{
+    width: 75%;
+    background-color: rgba(0, 0, 0, 0.607);
+    margin: auto auto;
+}
+.flexbox1{
+    display: flex;
+    height: 46vh;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0;
+}
+.fb2{
+    margin-top: -1.5vh;
+}
+.fb1{
+    margin-top: 1.5vh;
+}
+#subiteam{
+    height: 40vh;
+    width: 46vw;
+    border-radius: 10px;
+    margin: 3vh 2vw;
+    box-sizing: border-box;
+    color: white;
+    font-size: 4vh;
+    text-transform: capitalize;
+    
+}
+#iteam{
+    height: 100%;
+    width: 50%;   
+    box-sizing: border-box;
+}
+.i1{
+    background-image: url('https://images5.alphacoders.com/394/394862.jpg');
+    background-size: cover;
+}
+.i2{
+    background-image: url('https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010__340.jpg');
+    background-size: cover;
+}
+.i3{
+    background-image: url('https://w0.peakpx.com/wallpaper/98/432/HD-wallpaper-e-books-tablet-pc-electronic-books-touchpad-modern-technology-reading-books.jpg');
+    background-size: cover;
+}
+.i4{
+    background-image: url('https://images.unsplash.com/photo-1610731826702-6ded935d39a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZSUyMGJvb2t8ZW58MHx8MHx8&w=1000&q=80');
+    background-size: cover;
+}
+@media(min-width:1000px){
+    button#subiteam:hover{
+        height: 100%;
+        width: 50vw;
+        border-radius: 0px;
+        box-sizing: border-box;
+        cursor: pointer;
+        margin: 0;
+    }
+}
+@media(max-width:539px){
+    .flexbox1{
+        height: 52vh;
+        width: 100%;
+        box-sizing: border-box;
+        display:block;
+        margin-top:0px;
+        clear: both;
+    }
+    #iteam{
+    clear: both;
+    height: 45%;
+    width: 80%;   
+    box-sizing: border-box;
+    margin:0px 7%;
+    clear: both;
+    padding: 0px;
+    }
+    #subiteam{
+        clear: both;
+        height: 100%;
+        display: block;
+        width: 100%;
+        border: none;
+        padding: 0;
+        font-size: 2.5vh;
+    }
+    
+}

@@ -1,0 +1,166 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url('./img/bgimage1.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+.login a{
+  text-decoration: none;
+  color: white;
+}
+.login{
+  padding: 5px 10px;
+}
+.fc{
+    padding: 20px;
+    margin: 30vh auto;
+    height:40vh;
+    width: 35vw;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    box-sizing: border-box;
+    color: white;
+}
+.input-label {
+    filter: brightness(500%);
+    font-weight: bold;
+    font-size: 2vh;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 0.7px;
+    color: #8c7569;
+    transition: 0.3s;
+    box-sizing: border-box;
+    margin-bottom: 5px;
+  }
+
+  .input-block {
+    
+    margin: 10px 10px 10px 10px;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 10px 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    transition: 0.3s;
+    color: white;
+    box-sizing: border-box;
+    height: 10vh;
+  }
+  .input-block input {
+    color: white;
+    padding: 0px 10px;
+    font-size: 2vh;
+    outline: 0;
+    border: 1px solid white;
+    height: 4vh;
+    box-sizing: border-box;
+    background: rgba(0, 0, 0, 0);
+    border-radius: 5px;
+    padding-left: 2px;
+  }
+
+  .input-block input::-moz-placeholder {
+    color: #ccc;
+    opacity: 1;
+  }
+  .input-block input:-ms-input-placeholder {
+    color: #ccc;
+    opacity: 1;
+  }
+  .input-block input::placeholder {
+    color: #ccc;
+    opacity: 1;
+  }
+  .input-block:focus-within {
+    border-color: #8c7569;
+  }
+  .input-block:focus-within .input-label {
+    color: rgba(140, 117, 105, 0.8);
+  }
+  .input-button {
+    padding: 10px 10px;
+    outline: none;
+    text-transform: uppercase;
+    border: 0;
+    color: #fff;
+    border-radius: 4px;
+    background: #8c7569;
+    transition: 0.3s;
+    cursor: pointer;
+    font-family: "Nunito", sans-serif;
+    margin: 0px 10px;
+    box-sizing: border-box;
+    height: 5vh;
+  }
+  .input-button:hover {
+    background: #55311c;
+  }
+  .form-error {
+    filter: brightness(200%);
+    font-size: 15px;
+    color: #b22b27;
+    font-weight: 200;
+    
+  }
+  @media only screen and (max-width: 899px) {
+    
+    .fc{
+      padding: 20px;
+      margin: 30vh auto;
+      height:40vh;
+      width: 80vw;
+      background: rgba(0, 0, 0, 0.5);
+      border-radius: 10px;
+      box-sizing: border-box;
+      color: white;
+  }
+  body{
+    background-image: url('./img/bgimage.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+  }
+  @media only screen and ((max-width: 1000px) and (min-width: 900px)) {
+    .fc{
+      padding: 20px;
+      margin: 30vh auto;
+      height:40vh;
+      width: 75vw;
+      background: rgba(0, 0, 0, 0.5);
+      border-radius: 10px;
+      box-sizing: border-box;
+      color: white;
+  }
+  body{
+    background-image: url('./img/bgimage.jpg');
+    background-size:unset;
+    background-repeat: cover;
+}
+  }
+@media only screen and (max-width: 1200px) and (min-width: 1000px) {
+  .fc{
+    padding: 20px;
+    margin: 30vh auto;
+    height:40vh;
+    width: 60vw;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    box-sizing: border-box;
+    font-size: 2vh;
+    color: white;
+}
+body{
+  background-image: url('./img/bgimage.jpg');
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+}
